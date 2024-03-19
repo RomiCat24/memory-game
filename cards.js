@@ -1,23 +1,25 @@
 
 var errors = 0;
 var cardList = [
-    "darkness",
-    "double",
-    "fairy",
-    "fighting",
-    "fire",
-    "grass",
-    "lightning",
-    "metal",
-    "psychic",
-    "water"
+    "nucleolus",
+    "nucleus",
+    "lysosome",
+    "ser",
+    "golgi",
+    "rer",
+    "ribosomes",
+    "cytoplasm",
+    "plasma",
+    "mitochondria",
+    "cytoskeleton",
+    "centrioles"
 ]
 
 
 var cardSet;
 var board = [];
 var rows = 4;
-var columns =5;
+var columns =6;
 
 var card1Selected;
 var card2Selected;
